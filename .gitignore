@@ -1,0 +1,3 @@
+*.pdf
+*.sacproj
+__pycache__/
